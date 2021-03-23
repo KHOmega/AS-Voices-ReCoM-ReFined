@@ -1,7 +1,7 @@
 title: Absent Silhouette Voices (ReCoM)
 originalAuthor: KHDecoder
 game: kh2
-description: Imports battle lines from ReCoM for AS Org Members. See https://www.youtube.com/watch?v=I0b_mp4N-pI for further details.
+description: Imports battle lines from ReCoM for AS Org XIII members. See https://www.youtube.com/watch?v=I0b_mp4N-pI for further details.
 assets:
 - name: obj/B_EX370.a.fm
   method: copy
