@@ -1,26 +1,31 @@
-title: Absent Silhouette Voices (ReCoM)
-originalAuthor: KHDecoder
+title: Absent Silhouette Voices (ReCoM) - Re:Fined
+originalAuthor: KHDecoder (Edit by KHOmega)
 game: kh2
-description: Imports battle lines from ReCoM for AS Org XIII members. See https://www.youtube.com/watch?v=I0b_mp4N-pI for further details.
+description: Imports battle lines from ReCoM for AS Org XIII members. See https://www.youtube.com/watch?v=I0b_mp4N-pI for further details. (Made Compatible with Re:Fined)
 assets:
-- name: obj/B_EX370.a.fm
+- name: raw/obj/B_EX370.a.us
+  package: kh2_first
   method: copy
   source:
-  - name: B_EX370.a.fm
-- name: obj/B_EX400.a.fm
+    - name: B_EX370.a.us
+- name: raw/obj/B_EX400.a.us
+  package: kh2_first
   method: copy
   source:
-  - name: B_EX400.a.fm
-- name: obj/N_CM000_BTL.a.fm
+    - name: B_EX400.a.us
+- name: raw/obj/N_CM000_BTL.a.us
+  package: kh2_first
   method: copy
   source:
-  - name: N_CM000_BTL.a.fm
-- name: obj/N_CM020_BTL.a.fm
+    - name: N_CM000_BTL.a.us
+- name: raw/obj/N_CM020_BTL.a.us
+  package: kh2_first
   method: copy
   source:
-  - name: N_CM020_BTL.a.fm
-- name: obj/N_CM040_BTL.a.fm
+    - name: N_CM020_BTL.a.us
+- name: raw/obj/N_CM040_BTL.a.us
+  package: kh2_first
   method: copy
   source:
-  - name: N_CM040_BTL.a.fm
+    - name: N_CM040_BTL.a.us
   
